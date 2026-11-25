@@ -1,12 +1,12 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-11-25T12:49:47Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-11-24T18:20:31Z",
-    "total_runs": 19,
+    "last_status": "failed",
+    "last_failed": "2026-11-25T12:50:16Z",
+    "total_runs": 20,
     "total_successes": 0,
-    "total_failures": 19,
-    "consecutive_failures": 19,
+    "total_failures": 20,
+    "consecutive_failures": 20,
     "success_rate": 0,
     "last_error": "direct: Not logged in · Please run /login"
   }
